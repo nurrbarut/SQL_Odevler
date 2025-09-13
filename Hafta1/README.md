@@ -1,6 +1,6 @@
 # SQL Giriş – Uygulamalı Proje Ödevi (Kütüphane Konsepti)
 
-Bu klasör, Techcareer.net SQL Eğitimi 1. Hafta dersinin uygulamalı proje ödevini içerir. Ödev kapsamında bir kütüphane veri tabanı tasarlanmış ve çeşitli SQL sorguları ile tablolar oluşturulmuştur.
+Bu klasör, Techcareer.net SQL Eğitimi Hafta-1 dersinin uygulamalı proje ödevini içerir. Ödev kapsamında bir kütüphane veri tabanı tasarlanmış ve çeşitli SQL sorguları ile tablolar oluşturulmuştur.
 
 ## İçerik
 
@@ -9,5 +9,6 @@ Bu klasör, Techcareer.net SQL Eğitimi 1. Hafta dersinin uygulamalı proje öde
 ## Amaç
 
 Bu ödevin amacı, SQL komutlarını uygulayarak veri tabanı oluşturma, tablo tasarımı ve temel sorgulama becerilerini pekiştirmektir.
+
 
 
